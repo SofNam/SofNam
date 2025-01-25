@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi, I'm Khanh-Nam Le 👋
 
-<!--
-**SofNam/SofNam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Cloud Security Engineer | DevSecOps Enthusiast
 
-Here are some ideas to get you started:
+🔒 Specializing in cloud security and infrastructure automation with a strong background in AWS and Azure environments.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠 Tech Stack
+- **Cloud Platforms:** AWS, Azure, Docker, Terraform
+- **Security Tools:** SIEM, WIZ, Prisma Cloud, Wireshark, Burp Suite
+- **Languages:** C++, Python, Go, Java, TypeScript
+- **DevOps:** Git, CI/CD, Infrastructure as Code
+- **Databases:** MySQL
+
+### 🏆 Certifications
+- HashiCorp Certified: Terraform Associate
+- Microsoft Certified: Azure Administrator Associate
+- AWS Certified Solutions Architect - Associate
+
+### 🎓 Education
+- Master of Engineering in System, Network & Security
+- EPITA - School of Engineering and Computer Science
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin)](https://linkedin.com/in/khanhnam-le)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:khanhnam.le.infosec@gmail.com)
