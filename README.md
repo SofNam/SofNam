@@ -7,7 +7,7 @@
 ### 🛠 Tech Stack
 - **Cloud Platforms:** AWS, Azure, Docker, Terraform
 - **Security Tools:** SIEM, WIZ, Prisma Cloud, Wireshark, Burp Suite
-- **Languages:** C++, Python, Go, Java, TypeScript
+- **Languages:** C++, C#, Python, Go, Java, TypeScript
 - **DevOps:** Git, CI/CD, Infrastructure as Code
 - **Databases:** MySQL
 
