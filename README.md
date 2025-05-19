@@ -1,6 +1,6 @@
 # Hi, I'm Khanh-Nam Le 👋
 
-### Cloud Security Engineer | DevSecOps Enthusiast
+### Cloud / Security Enthusiast
 
 🔒 Specializing in cloud security and infrastructure automation with a strong background in AWS and Azure environments.
 
