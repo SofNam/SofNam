@@ -2,7 +2,7 @@
 
 ### Cloud / Security Enthusiast
 
-🔒 Specializing in cloud security and infrastructure automation with a strong background in AWS and Azure environments.
+🔒 Specializing in cloud security and infrastructure automation with a strong background in AWS and Azure environments. Loves automation, modern technology, code readability.
 
 ### 🛠 Tech Stack
 - **Cloud Platforms:** AWS, Azure, Docker, Terraform
