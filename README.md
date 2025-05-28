@@ -2,14 +2,13 @@
 
 ### Cloud / Security Enthusiast
 
-🔒 Specializing in cloud security and infrastructure automation with a strong background in AWS and Azure environments. Loves automation, modern technology, code readability.
+Loves automation, modern technology, code readability.
 
 ### 🛠 Tech Stack
 - **Cloud Platforms:** AWS, Azure, Docker, Terraform, Kubernetes (on-going)
 - **Security Tools:** SIEM, WIZ, Prisma Cloud, Wireshark, Burp Suite
-- **Languages:** C++, C#, Python, Go, Java, TypeScript
+- **Languages:** Python, Go, Java
 - **DevOps:** Git, CI/CD, Infrastructure as Code
-- **Databases:** MySQL
 
 ### 🏆 Certifications
 - HashiCorp Certified: Terraform Associate
