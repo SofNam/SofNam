@@ -1,6 +1,8 @@
 # Hi, I'm Khanh-Nam Le 👋
 
-### Cloud / Security Enthusiast
+![](https://komarev.com/ghpvc/?username=khanhnam-le&color=blue)
+
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Cloud+and+Security+Engineer;DevOps+Enthusiast;Infrastructure+Automation+Expert)](https://git.io/typing-svg)
 
 Loves automation, modern technology, code readability.
 
