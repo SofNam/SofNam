@@ -7,7 +7,7 @@
 Loves automation, modern technology, code readability.
 
 ### 🛠 Tech Stack
-- **Cloud Platforms:** AWS, Azure, Docker, Terraform, Kubernetes (on-going)
+- **Cloud Platforms:** AWS, Azure, Docker, Terraform, Kubernetes
 - **Security Tools:** SIEM, WIZ, Prisma Cloud, Wireshark, Burp Suite
 - **Languages:** Python, Go, Java
 - **DevOps:** Git, CI/CD, Infrastructure as Code
