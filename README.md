@@ -9,13 +9,14 @@ Loves automation, modern technology, code readability.
 ### 🛠 Tech Stack
 - **Cloud Platforms:** AWS, Azure, Docker, Terraform, Kubernetes
 - **Security Tools:** SIEM, WIZ, Prisma Cloud, Wireshark, Burp Suite
-- **Languages:** Python, Go, Java
+- **Languages:** Python, Go, C#
 - **DevOps:** Git, CI/CD, Infrastructure as Code
 
 ### 🏆 Certifications
+- AWS Certified Solutions Architect - Associate
 - HashiCorp Certified: Terraform Associate
 - Microsoft Certified: Azure Administrator Associate
-- AWS Certified Solutions Architect - Associate
+- Certified Kubernetes Administrator
 
 ### 🎓 Education
 - Master of Engineering in System, Network & Security
