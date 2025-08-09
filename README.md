@@ -1,4 +1,4 @@
-# Hi, I'm Khanh-Nam Le 👋
+# Hi, I'm Nam Le 👋
 
 ![](https://komarev.com/ghpvc/?username=khanhnam-le&color=blue)
 
