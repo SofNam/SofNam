@@ -16,6 +16,7 @@ Loves automation, modern technology, code readability.
 - HashiCorp Certified: Terraform Associate
 - Microsoft Certified: Azure Administrator Associate
 - Certified Kubernetes Administrator
+- Certified Kubernetes Security Specialist
 
 ### 🎓 Education
 - Master of Engineering in System, Network & Security
